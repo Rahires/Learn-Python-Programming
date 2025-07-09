@@ -111,9 +111,9 @@ functionname(). ---Function call
 
 class classname: ---Class syntax
 
-# Datamber
-
-#Method
+Datamber
+and
+Method
 
 👉️Object
 
@@ -149,7 +149,7 @@ Create new class from existing class
 
 Class classname: ---parent class
 
-#propeties
+propeties
 
 Class classname1(classname): ---child class
 
