@@ -111,7 +111,7 @@ functionname(). ---Function call
 
 class classname: ---Class syntax
 
-# Datember
+# Datamber
 
 #Method
 
